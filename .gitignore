@@ -30,3 +30,31 @@
 *.exe
 *.out
 *.app
+/.vs
+/test/x64/Debug
+/test/.vs/test/v17
+/test/.vs/test/FileContentIndex
+
+# Visual Studio ���ɵ��ļ�
+Debug/
+Release/
+x64/
+x86/
+*.suo
+*.user
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.ipch
+*.aps
+
+# Visual Studio ר��Ŀ¼
+.v17/
+.vs/
+fileContentIndex/
+
+log.txt
