@@ -2,4 +2,4 @@
 C++and easyX
 
 # Task1
-��Ϥgit!
+熟悉git!!!并且将编码由GBK改为utf-8!
